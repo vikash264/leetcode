@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vikash264/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
 | [0796-rotate-string](https://github.com/vikash264/leetcode/tree/master/0796-rotate-string) |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
