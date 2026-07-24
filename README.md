@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vikash264/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -44,5 +45,6 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vikash264/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
