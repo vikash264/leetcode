@@ -22,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vikash264/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -48,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/vikash264/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vikash264/leetcode/tree/master/0189-rotate-array) |
