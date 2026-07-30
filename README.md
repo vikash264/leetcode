@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vikash264/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -52,6 +53,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vikash264/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vikash264/leetcode/tree/master/0189-rotate-array) |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
