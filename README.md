@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/vikash264/leetcode/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/vikash264/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vikash264/leetcode/tree/master/0136-single-number) |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vikash264/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
