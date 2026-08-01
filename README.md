@@ -59,6 +59,7 @@
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vikash264/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vikash264/leetcode/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vikash264/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vikash264/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vikash264/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -74,8 +75,14 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vikash264/leetcode/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
