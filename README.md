@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/vikash264/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vikash264/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -62,6 +63,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vikash264/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vikash264/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/vikash264/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vikash264/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vikash264/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
