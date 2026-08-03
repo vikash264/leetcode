@@ -56,6 +56,7 @@
 | [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vikash264/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vikash264/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vikash264/leetcode/tree/master/0136-single-number) |
@@ -76,6 +77,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vikash264/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vikash264/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vikash264/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
