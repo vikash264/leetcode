@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/vikash264/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vikash264/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vikash264/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikash264/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/vikash264/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vikash264/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vikash264/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/vikash264/leetcode/tree/master/0053-maximum-subarray) |
@@ -87,6 +89,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vikash264/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/vikash264/leetcode/tree/master/0229-majority-element-ii) |
 ## Matrix
