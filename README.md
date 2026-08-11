@@ -126,4 +126,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vikash264/leetcode/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vikash264/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vikash264/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
