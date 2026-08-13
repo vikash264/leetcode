@@ -34,6 +34,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vikash264/leetcode/tree/master/0189-rotate-array) |
+| [1922-count-good-numbers](https://github.com/vikash264/leetcode/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vikash264/leetcode/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/vikash264/leetcode/tree/master/1922-count-good-numbers) |
 ## Quicksort
 |  |
 | ------- |
