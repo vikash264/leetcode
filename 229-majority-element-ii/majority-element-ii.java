@@ -11,7 +11,7 @@ class Solution {
                 candidate1 = num;
                 count1 = 1;
             } 
-            else if(count2 == 0) {
+            else if(count2 == 0){
                 candidate2 = num;
                 count2 = 1;
             } 
