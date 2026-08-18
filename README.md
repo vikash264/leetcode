@@ -18,6 +18,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vikash264/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikash264/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
@@ -144,4 +145,16 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vikash264/leetcode/tree/master/0056-merge-intervals) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vikash264/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vikash264/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/vikash264/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
