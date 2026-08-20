@@ -167,4 +167,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vikash264/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vikash264/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
