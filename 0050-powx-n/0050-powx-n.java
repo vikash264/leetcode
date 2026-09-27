@@ -7,7 +7,7 @@ class Solution {
         }
         double result = 1.0;
         while(power > 0){
-            if(power % 2 == 1) result *= x;
+            if(power%2 == 1) result *= x;
             x *= x;
             power /= 2;
         }
