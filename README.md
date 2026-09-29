@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vikash264/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/vikash264/leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vikash264/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vikash264/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/vikash264/leetcode/tree/master/0796-rotate-string) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikash264/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/vikash264/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vikash264/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vikash264/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikash264/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -304,4 +306,12 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash264/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vikash264/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vikash264/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
