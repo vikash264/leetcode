@@ -8,6 +8,7 @@
 | [0008-string-to-integer-atoi](https://github.com/vikash264/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/vikash264/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/vikash264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vikash264/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vikash264/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/vikash264/leetcode/tree/master/0796-rotate-string) |
@@ -70,6 +71,7 @@
 | [0118-pascals-triangle](https://github.com/vikash264/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikash264/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikash264/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/vikash264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/vikash264/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Counting
 |  |
@@ -316,6 +318,7 @@
 | [0022-generate-parentheses](https://github.com/vikash264/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/vikash264/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vikash264/leetcode/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/vikash264/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
