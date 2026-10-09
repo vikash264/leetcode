@@ -8,6 +8,7 @@
 | [0008-string-to-integer-atoi](https://github.com/vikash264/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/vikash264/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/vikash264/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/vikash264/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vikash264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vikash264/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vikash264/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -94,6 +95,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikash264/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vikash264/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vikash264/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vikash264/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikash264/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vikash264/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/vikash264/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vikash264/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vikash264/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vikash264/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -213,6 +216,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vikash264/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikash264/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vikash264/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vikash264/leetcode/tree/master/0099-recover-binary-search-tree) |
@@ -324,6 +328,7 @@
 | [0039-combination-sum](https://github.com/vikash264/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vikash264/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vikash264/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vikash264/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vikash264/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vikash264/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vikash264/leetcode/tree/master/0216-combination-sum-iii) |
